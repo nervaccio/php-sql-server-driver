@@ -1,5 +1,5 @@
-# php-sql-server-driver
-Script to install SQL Server driver for php #sql #php #sqlserver #database
+# SQL Server driver for PHP
+A draft script to install SQL Server driver for PHP based on Microsoft documentation. Check out the link below.
 
 
 ### Documentation
